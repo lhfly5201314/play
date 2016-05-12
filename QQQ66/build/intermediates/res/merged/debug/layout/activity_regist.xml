@@ -1,0 +1,51 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/login_background"
+    android:orientation="vertical"
+    >
+    
+    <ImageView 
+        android:layout_gravity="center_horizontal"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@drawable/regist_image"
+        android:layout_marginTop="20dp"
+        />
+    
+    <EditText 
+        android:id="@id/et_name"
+        android:layout_marginTop="15dp"
+        android:layout_marginLeft="5dp"
+        android:layout_marginRight="5dp"
+        android:layout_width="match_parent"
+        android:layout_height="25dp"
+        android:hint="请输入用户名"
+        android:background="#FFFFFF"
+        />
+    <EditText 
+        android:id="@id/et_pwd"
+        android:layout_marginTop="5dp"
+        android:layout_marginLeft="5dp"
+        android:layout_marginRight="5dp"
+        android:layout_width="match_parent"
+        android:layout_height="25dp"
+        android:hint="请输入密码"
+        android:inputType="textPassword"
+        android:background="#FFFFFF"
+        />
+    <Button 
+        android:onClick="regist"
+        android:layout_marginTop="10dp"
+         android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:text="确定"
+        android:textColor="#FFFFFF"
+        android:textSize="22sp"
+        android:background="@color/btn_back"
+        />
+
+</LinearLayout>

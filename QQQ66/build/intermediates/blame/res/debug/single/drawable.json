@@ -1,0 +1,162 @@
+[
+    {
+        "merged": "C:\\Users\\Administrator\\StudioProjects\\play\\QQQ66\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\Administrator\\StudioProjects\\play\\QQQ66\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\StudioProjects\\play\\QQQ66\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "C:\\Users\\Administrator\\StudioProjects\\play\\QQQ66\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\StudioProjects\\play\\QQQ66\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "C:\\Users\\Administrator\\StudioProjects\\play\\QQQ66\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\StudioProjects\\play\\QQQ66\\build\\intermediates\\res\\merged\\debug\\drawable\\contact_tab_selector.xml",
+        "source": "C:\\Users\\Administrator\\StudioProjects\\play\\QQQ66\\src\\main\\res\\drawable\\contact_tab_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\StudioProjects\\play\\QQQ66\\build\\intermediates\\res\\merged\\debug\\drawable\\new_friend.png",
+        "source": "C:\\Users\\Administrator\\StudioProjects\\play\\QQQ66\\src\\main\\res\\drawable\\new_friend.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\StudioProjects\\play\\QQQ66\\build\\intermediates\\res\\merged\\debug\\drawable\\dongtai_tab_selector.xml",
+        "source": "C:\\Users\\Administrator\\StudioProjects\\play\\QQQ66\\src\\main\\res\\drawable\\dongtai_tab_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\StudioProjects\\play\\QQQ66\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "C:\\Users\\Administrator\\StudioProjects\\play\\QQQ66\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\StudioProjects\\play\\QQQ66\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "C:\\Users\\Administrator\\StudioProjects\\play\\QQQ66\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\StudioProjects\\play\\QQQ66\\build\\intermediates\\res\\merged\\debug\\drawable\\terminal_icon_ios.png",
+        "source": "C:\\Users\\Administrator\\StudioProjects\\play\\QQQ66\\src\\main\\res\\drawable\\terminal_icon_ios.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\StudioProjects\\play\\QQQ66\\build\\intermediates\\res\\merged\\debug\\drawable\\conversation_selected.png",
+        "source": "C:\\Users\\Administrator\\StudioProjects\\play\\QQQ66\\src\\main\\res\\drawable\\conversation_selected.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\StudioProjects\\play\\QQQ66\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "C:\\Users\\Administrator\\StudioProjects\\play\\QQQ66\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\StudioProjects\\play\\QQQ66\\build\\intermediates\\res\\merged\\debug\\drawable\\contact_selected.png",
+        "source": "C:\\Users\\Administrator\\StudioProjects\\play\\QQQ66\\src\\main\\res\\drawable\\contact_selected.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\StudioProjects\\play\\QQQ66\\build\\intermediates\\res\\merged\\debug\\drawable\\chat_add_normal.png",
+        "source": "C:\\Users\\Administrator\\StudioProjects\\play\\QQQ66\\src\\main\\res\\drawable\\chat_add_normal.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\StudioProjects\\play\\QQQ66\\build\\intermediates\\res\\merged\\debug\\drawable\\indicator_expanded.png",
+        "source": "C:\\Users\\Administrator\\StudioProjects\\play\\QQQ66\\src\\main\\res\\drawable\\indicator_expanded.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\StudioProjects\\play\\QQQ66\\build\\intermediates\\res\\merged\\debug\\drawable\\dongtai_selected.png",
+        "source": "C:\\Users\\Administrator\\StudioProjects\\play\\QQQ66\\src\\main\\res\\drawable\\dongtai_selected.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\StudioProjects\\play\\QQQ66\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_launcher.png",
+        "source": "C:\\Users\\Administrator\\StudioProjects\\play\\QQQ66\\src\\main\\res\\drawable\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\StudioProjects\\play\\QQQ66\\build\\intermediates\\res\\merged\\debug\\drawable\\indicator_unexpanded.png",
+        "source": "C:\\Users\\Administrator\\StudioProjects\\play\\QQQ66\\src\\main\\res\\drawable\\indicator_unexpanded.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\StudioProjects\\play\\QQQ66\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "C:\\Users\\Administrator\\StudioProjects\\play\\QQQ66\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\StudioProjects\\play\\QQQ66\\build\\intermediates\\res\\merged\\debug\\drawable\\regist_image.png",
+        "source": "C:\\Users\\Administrator\\StudioProjects\\play\\QQQ66\\src\\main\\res\\drawable\\regist_image.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\StudioProjects\\play\\QQQ66\\build\\intermediates\\res\\merged\\debug\\drawable\\contact_normal.png",
+        "source": "C:\\Users\\Administrator\\StudioProjects\\play\\QQQ66\\src\\main\\res\\drawable\\contact_normal.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\StudioProjects\\play\\QQQ66\\build\\intermediates\\res\\merged\\debug\\drawable\\new_group.png",
+        "source": "C:\\Users\\Administrator\\StudioProjects\\play\\QQQ66\\src\\main\\res\\drawable\\new_group.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\StudioProjects\\play\\QQQ66\\build\\intermediates\\res\\merged\\debug\\drawable\\fv_chat_content_r_normal.9.png",
+        "source": "C:\\Users\\Administrator\\StudioProjects\\play\\QQQ66\\src\\main\\res\\drawable\\fv_chat_content_r_normal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\StudioProjects\\play\\QQQ66\\build\\intermediates\\res\\merged\\debug\\drawable\\online.png",
+        "source": "C:\\Users\\Administrator\\StudioProjects\\play\\QQQ66\\src\\main\\res\\drawable\\online.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\StudioProjects\\play\\QQQ66\\build\\intermediates\\res\\merged\\debug\\drawable\\conversation_normal.png",
+        "source": "C:\\Users\\Administrator\\StudioProjects\\play\\QQQ66\\src\\main\\res\\drawable\\conversation_normal.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\StudioProjects\\play\\QQQ66\\build\\intermediates\\res\\merged\\debug\\drawable\\chat_emo_normal.png",
+        "source": "C:\\Users\\Administrator\\StudioProjects\\play\\QQQ66\\src\\main\\res\\drawable\\chat_emo_normal.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\StudioProjects\\play\\QQQ66\\build\\intermediates\\res\\merged\\debug\\drawable\\login_image.png",
+        "source": "C:\\Users\\Administrator\\StudioProjects\\play\\QQQ66\\src\\main\\res\\drawable\\login_image.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\StudioProjects\\play\\QQQ66\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "C:\\Users\\Administrator\\StudioProjects\\play\\QQQ66\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\StudioProjects\\play\\QQQ66\\build\\intermediates\\res\\merged\\debug\\drawable\\splash.jpg",
+        "source": "C:\\Users\\Administrator\\StudioProjects\\play\\QQQ66\\src\\main\\res\\drawable\\splash.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\StudioProjects\\play\\QQQ66\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "C:\\Users\\Administrator\\StudioProjects\\play\\QQQ66\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\StudioProjects\\play\\QQQ66\\build\\intermediates\\res\\merged\\debug\\drawable\\dongtai_normal.png",
+        "source": "C:\\Users\\Administrator\\StudioProjects\\play\\QQQ66\\src\\main\\res\\drawable\\dongtai_normal.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\StudioProjects\\play\\QQQ66\\build\\intermediates\\res\\merged\\debug\\drawable\\login_background.jpg",
+        "source": "C:\\Users\\Administrator\\StudioProjects\\play\\QQQ66\\src\\main\\res\\drawable\\login_background.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\StudioProjects\\play\\QQQ66\\build\\intermediates\\res\\merged\\debug\\drawable\\conversion_tab_selector.xml",
+        "source": "C:\\Users\\Administrator\\StudioProjects\\play\\QQQ66\\src\\main\\res\\drawable\\conversion_tab_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\StudioProjects\\play\\QQQ66\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "C:\\Users\\Administrator\\StudioProjects\\play\\QQQ66\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\StudioProjects\\play\\QQQ66\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_arrow.png",
+        "source": "C:\\Users\\Administrator\\StudioProjects\\play\\QQQ66\\src\\main\\res\\drawable\\icon_arrow.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\StudioProjects\\play\\QQQ66\\build\\intermediates\\res\\merged\\debug\\drawable\\contact_list_indicator_selector.xml",
+        "source": "C:\\Users\\Administrator\\StudioProjects\\play\\QQQ66\\src\\main\\res\\drawable\\contact_list_indicator_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\StudioProjects\\play\\QQQ66\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "C:\\Users\\Administrator\\StudioProjects\\play\\QQQ66\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\StudioProjects\\play\\QQQ66\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "C:\\Users\\Administrator\\StudioProjects\\play\\QQQ66\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\StudioProjects\\play\\QQQ66\\build\\intermediates\\res\\merged\\debug\\drawable\\fv_chat_content_l_pressed.9.png",
+        "source": "C:\\Users\\Administrator\\StudioProjects\\play\\QQQ66\\src\\main\\res\\drawable\\fv_chat_content_l_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\StudioProjects\\play\\QQQ66\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "C:\\Users\\Administrator\\StudioProjects\\play\\QQQ66\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\StudioProjects\\play\\QQQ66\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "C:\\Users\\Administrator\\StudioProjects\\play\\QQQ66\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    }
+]

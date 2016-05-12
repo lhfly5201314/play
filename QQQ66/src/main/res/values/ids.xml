@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="id" name="iv_splash">iv_splash</item>
+    <item type="id" name="et_name">et_name</item>
+    <item type="id" name="et_pwd">et_pwd</item>
+    <item type="id" name="tv_title">tv_title</item>
+    <item type="id" name="fl_content">fl_content</item>
+    
+</resources>
